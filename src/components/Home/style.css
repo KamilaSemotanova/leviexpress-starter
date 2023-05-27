@@ -1,0 +1,13 @@
+.reservation_btn {
+  position: relative;
+  bottom: 1rem;
+  left: 2rem;
+  color: white;
+  background-color: #ed6a5a;
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  outline: none;
+  box-shadow: 0 0 3px gray;
+  cursor: pointer;
+}
